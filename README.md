@@ -8,4 +8,4 @@ It includes the following apps currently (*After a huge mental argument with mys
 3. Pomodoro timer.
 4. Calculator
 
-editing just to see how this branch works
+
