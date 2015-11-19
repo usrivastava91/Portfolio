@@ -7,3 +7,5 @@ It includes the following apps currently (*After a huge mental argument with mys
 2. Quote generator which speaks. ( more of a corny pick up lines-generator. might have to modify this one a bit before linking this to a recruiter)
 3. Pomodoro timer.
 4. Calculator
+
+editing just to see how this branch works
