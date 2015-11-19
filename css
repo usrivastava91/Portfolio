@@ -1,0 +1,20 @@
+.home{
+  height: 855px;
+  text-align: center;
+  padding-top: 50px;
+  background: url('https://juhalappalainen.files.wordpress.com/2012/04/bkk-e28093-urban-life-pt1-in-black-and-white.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.portfolio{
+  background:
+    url('http://i.picmoo.com/photos/122/2015/6/486ccf85bd5d6a08de4564a31127beaf9c29beb4.jpg?1434709076')no-repeat center center fixed;
+  
+  height: 855px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+
+
